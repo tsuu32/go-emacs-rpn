@@ -2,8 +2,7 @@
 
 Eval Reverse Poland Notation in emacs.
 
-This package uses modified [rpn.go].
-[rpn.go]: https://gist.github.com/uchan-nos/cd594b3a4c88af136bd4
+This package uses modified [rpn.go](https://gist.github.com/uchan-nos/cd594b3a4c88af136bd4).
 
 ## Build
 ```sh
